@@ -1,0 +1,12 @@
+data/flexible/
+models/
+outputs/
+__pycache__/
+*.pyc
+.env
+*.bin
+*.safetensors
+*.pt
+*.pth
+.ipynb_checkpoints/
+venv/
